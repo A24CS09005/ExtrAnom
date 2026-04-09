@@ -1,4 +1,11 @@
-**The normal videos are available at the following link:** https://drive.google.com/drive/folders/179lRIaeGPsQCLSKT78rVpTeRsoAeP6rp?usp=drive_link
+
+
+
+THE NORMAL VIDEOS ARE AVAILABLE AT THE FOLLOWING LINK: https://drive.google.com/drive/folders/179lRIaeGPsQCLSKT78rVpTeRsoAeP6rp?usp=drive_link
+
+
+
+
 
 [{
         "video": "Normal_v1.mp4",
